@@ -1,0 +1,7 @@
+{
+  "name": "Pasapalabra AI",
+  "description": "An AI-powered version of the classic 'Pasapalabra' word wheel game. Users can generate question sets on any topic, at any difficulty, and play against the clock. Features user preferences, game saving, and a dynamic, responsive UI.",
+  "requestFramePermissions": [
+    "modals"
+  ]
+}
